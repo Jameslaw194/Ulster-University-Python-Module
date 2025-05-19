@@ -1,0 +1,39 @@
+• Who was the creator of Python?
+Guido van Rossum
+
+• When was the Python programming language created?
+1991
+
+• How many major revisions has the language gone through?
+3
+
+• As of 2024, how popular is the Python Programming language reported to be?
+Top 5
+
+• What does IDE stand for and what is its purpose?
+integrated development environment
+
+• What is the difference between an integer and float in python?
+integer is a whole number
+float is a decimal number
+
+• How are strings are stored in Python?
+in a variable, as an array of characters
+
+• What is a variable and how are they used in programming?
+a variable is used to store data/info in memory
+
+• How does the print statement in Python work?
+its a function, that takes in X amount of parameters and prints it out in 1 line
+
+• What is PEP8 in the context of Python?
+recommendations for styling python code
+
+• What is ASCII coding and what are the codes for ‘A’ and ‘a’?
+ASCII code is used to refer to all the different characters, formatting for text files
+A - 65
+a - 97
+
+• What are the ASCII codes for your first name?
+James
+74, 97, 109, 101, 115

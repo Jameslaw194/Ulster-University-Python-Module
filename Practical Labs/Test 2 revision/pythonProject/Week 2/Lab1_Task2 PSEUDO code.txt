@@ -1,0 +1,4 @@
+INPUT originalPrice
+discount = 0.8
+salePrice = originalPrice * discount
+OUTPUT salePrice

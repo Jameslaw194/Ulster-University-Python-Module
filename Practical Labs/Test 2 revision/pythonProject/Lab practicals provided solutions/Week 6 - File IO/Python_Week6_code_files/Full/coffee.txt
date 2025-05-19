@@ -1,0 +1,4 @@
+Java, Dark, Beans, 10
+Blue Mountain, Light, Ground, 5
+Java, Medium, Beans, 6
+Blue Mountain, Light, Beans, 15
